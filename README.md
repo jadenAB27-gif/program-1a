@@ -1,10 +1,11 @@
-# program-1-c-
+# program-1a
 C module 1
 
-EX NO-1)c)-Finding whether  a given character is alphabet or not.
-Date:19/10/2025
-Name: VASANTH S
-Ref no: 25017538
+EX NO-1)a)-Finding whether  a given character is alphabet or not.
+
+Date: 26/03/26
+Name: JADEN SAMUEL ABRAHAM
+Ref no: 25003451
 
 AIM:
 Write a C program to find whether the given character is alphabet or not.
